@@ -21,3 +21,7 @@ Single-colored icons can be modified like so:
 .unitRight{
   display: none;
 }
+
+svg:hover{
+  fill: rgba(54,26,98,0.4);
+}
